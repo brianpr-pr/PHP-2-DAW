@@ -1,1 +1,0 @@
-Falta añadir que muestre el nombre del usuario, alguna manera de evitar tener que hacer un nuevo select ??
