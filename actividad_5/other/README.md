@@ -1,1 +1,0 @@
-Falta añadir que en index.php y login.php si estoy ya registrado, que me mande directamente a la pagina de logged.php, que esta solo sea accesible si estamos logeados, añadir boton para logout en la pagina de logged.php.
